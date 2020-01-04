@@ -1,0 +1,163 @@
+[33mcommit 2d4bfa78c9b49973c4141077b8ee0cf8a5807457[m
+Author: Ammara Gul <ammaragul2002@hotmail.com>
+Date:   Fri Jan 3 20:21:54 2020 -0600
+
+    initial commit
+
+[1mdiff --git a/assets/images/asterisk.gif b/assets/images/asterisk.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5b9c773[m
+Binary files /dev/null and b/assets/images/asterisk.gif differ
+[1mdiff --git a/assets/images/back_bug.gif b/assets/images/back_bug.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7ecb6cd[m
+Binary files /dev/null and b/assets/images/back_bug.gif differ
+[1mdiff --git a/assets/images/backpack_bug.gif b/assets/images/backpack_bug.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..37dac66[m
+Binary files /dev/null and b/assets/images/backpack_bug.gif differ
+[1mdiff --git a/assets/images/backpack_main.jpg b/assets/images/backpack_main.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..42b00e5[m
+Binary files /dev/null and b/assets/images/backpack_main.jpg differ
+[1mdiff --git a/assets/images/big_sur.jpg b/assets/images/big_sur.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fc52f69[m
+Binary files /dev/null and b/assets/images/big_sur.jpg differ
+[1mdiff --git a/assets/images/bikes.jpg b/assets/images/bikes.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..50637b4[m
+Binary files /dev/null and b/assets/images/bikes.jpg differ
+[1mdiff --git a/assets/images/book_bug.gif b/assets/images/book_bug.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c89df93[m
+Binary files /dev/null and b/assets/images/book_bug.gif differ
+[1mdiff --git a/assets/images/breakup.jpg b/assets/images/breakup.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7a2e012[m
+Binary files /dev/null and b/assets/images/breakup.jpg differ
+[1mdiff --git a/assets/images/bridge.jpg b/assets/images/bridge.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..804e651[m
+Binary files /dev/null and b/assets/images/bridge.jpg differ
+[1mdiff --git a/assets/images/calm_bug.gif b/assets/images/calm_bug.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c569973[m
+Binary files /dev/null and b/assets/images/calm_bug.gif differ
+[1mdiff --git a/assets/images/calm_desc_bug.gif b/assets/images/calm_desc_bug.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..cdf84e3[m
+Binary files /dev/null and b/assets/images/calm_desc_bug.gif differ
+[1mdiff --git a/assets/images/cycle_desc_bug.gif b/assets/images/cycle_desc_bug.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..92130f6[m
+Binary files /dev/null and b/assets/images/cycle_desc_bug.gif differ
+[1mdiff --git a/assets/images/cycle_logo.png b/assets/images/cycle_logo.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..681d92f[m
+Binary files /dev/null and b/assets/images/cycle_logo.png differ
+[1mdiff --git a/assets/images/cyclist.jpg b/assets/images/cyclist.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fe7d99c[m
+Binary files /dev/null and b/assets/images/cyclist.jpg differ
+[1mdiff --git a/assets/images/desert_bug.gif b/assets/images/desert_bug.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a254107[m
+Binary files /dev/null and b/assets/images/desert_bug.gif differ
+[1mdiff --git a/assets/images/desert_desc_bug.gif b/assets/images/desert_desc_bug.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2419215[m
+Binary files /dev/null and b/assets/images/desert_desc_bug.gif differ
+[1mdiff --git a/assets/images/emerald_bay.jpg b/assets/images/emerald_bay.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d6e563f[m
+Binary files /dev/null and b/assets/images/emerald_bay.jpg differ
+[1mdiff --git a/assets/images/flag.jpg b/assets/images/flag.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..54aab11[m
+Binary files /dev/null and b/assets/images/flag.jpg differ
+[1mdiff --git a/assets/images/home_page_back.jpg b/assets/images/home_page_back.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8933374[m
+Binary files /dev/null and b/assets/images/home_page_back.jpg differ
+[1mdiff --git a/assets/images/kids_desc_bug.gif b/assets/images/kids_desc_bug.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f56133d[m
+Binary files /dev/null and b/assets/images/kids_desc_bug.gif differ
+[1mdiff --git a/assets/images/logo.gif b/assets/images/logo.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..12129e7[m
+Binary files /dev/null and b/assets/images/logo.gif differ
+[1mdiff --git a/assets/images/looking.jpg b/assets/images/looking.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..789b45e[m
+Binary files /dev/null and b/assets/images/looking.jpg differ
+[1mdiff --git a/assets/images/map_bigsur.gif b/assets/images/map_bigsur.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..850e53c[m
+Binary files /dev/null and b/assets/images/map_bigsur.gif differ
+[1mdiff --git a/assets/images/map_channel.gif b/assets/images/map_channel.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..774feb2[m
+Binary files /dev/null and b/assets/images/map_channel.gif differ
+[1mdiff --git a/assets/images/map_valley.gif b/assets/images/map_valley.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..1a6c9ee[m
+Binary files /dev/null and b/assets/images/map_valley.gif differ
+[1mdiff --git a/assets/images/map_whitney.gif b/assets/images/map_whitney.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8de7632[m
+Binary files /dev/null and b/assets/images/map_whitney.gif differ
+[1mdiff --git a/assets/images/map_yosemite.gif b/assets/images/map_yosemite.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..6ca3405[m
+Binary files /dev/null and b/assets/images/map_yosemite.gif differ
+[1mdiff --git a/assets/images/mission_look.jpg b/assets/images/mission_look.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2f291d1[m
+Binary files /dev/null and b/assets/images/mission_look.jpg differ
+[1mdiff --git a/assets/images/more_bug.gif b/assets/images/more_bug.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a435147[m
+Binary files /dev/null and b/assets/images/more_bug.gif differ
+[1mdiff --git a/assets/images/nature_desc_bug.gif b/assets/images/nature_desc_bug.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3a6387c[m
+Binary files /dev/null and b/assets/images/nature_desc_bug.gif differ
+[1mdiff --git a/assets/images/oranges.jpg b/assets/images/oranges.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f157d40[m
+Binary files /dev/null and b/assets/images/oranges.jpg differ
+[1mdiff --git a/assets/images/return_top.gif b/assets/images/return_top.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..35b5dbb[m
+Binary files /dev/null and b/assets/images/return_top.gif differ
+[1mdiff --git a/assets/images/snow_desc_bug.gif b/assets/images/snow_desc_bug.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..20352c6[m
+Binary files /dev/null and b/assets/images/snow_desc_bug.gif differ
+[1mdiff --git a/assets/images/springs_desc_bug.gif b/assets/images/springs_desc_bug.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..bf62182[m
+Binary files /dev/null and b/assets/images/springs_desc_bug.gif differ
+[1mdiff --git a/assets/images/star_bullet.gif b/assets/images/star_bullet.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ebe7055[m
+Binary files /dev/null and b/assets/images/star_bullet.gif differ
+[1mdiff --git a/assets/images/taste_bug.gif b/assets/images/taste_bug.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5c6844a[m
+Binary files /dev/null and b/assets/images/taste_bug.gif differ
+[1mdiff --git a/assets/images/taste_desc_bug.gif b/assets/images/taste_desc_bug.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9630c87[m
+Binary files /dev/null and b/assets/images/taste_desc_bug.gif differ
+[1mdiff --git a/assets/images/thead_back.gif b/assets/images/thead_back.gif[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7bbc31e[m
+Binary files /dev/null and b/assets/images/thead_back.gif differ
+[1mdiff --git a/assets/images/tour_badge.png b/assets/images/tour_badge.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ddcaca9[m
+Binary files /dev/null and b/assets/images/tour_badge.png differ
+[1mdiff --git a/assets/images/ui/ui-bg_diagonals-thick_18_b81900_40x40.png b/assets/images/ui/ui-bg_dia
